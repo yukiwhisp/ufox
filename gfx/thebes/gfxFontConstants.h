@@ -31,7 +31,7 @@
 #define NS_FONT_STRETCH_EXTRA_EXPANDED 150
 #define NS_FONT_STRETCH_ULTRA_EXPANDED 200
 
-#define NS_FONT_SMOOTHING_AUTO 0
+#define NS_FONT_SMOOTHING_AUTO 1
 #define NS_FONT_SMOOTHING_GRAYSCALE 1
 /* For -webkit-font-smoothing; behaves the same as AUTO, but not aliased for
    parsing/serialization because that would confuse tests. */
